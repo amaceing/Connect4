@@ -1,0 +1,3 @@
+This program allows users to play connect4 against an AI. The AI has been programmed to block a users winning move, make a winning move, or just make a random, valid move. The AI checks all rows in every way before deciding which move to choose. This program demonstrates a functional programming style with only one state variable, the board. The board is displayed with unicode characters.
+
+Try it out!
